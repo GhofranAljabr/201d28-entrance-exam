@@ -1,1 +1,0 @@
-# 201d28-entrance-exam

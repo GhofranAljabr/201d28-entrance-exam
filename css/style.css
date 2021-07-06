@@ -1,0 +1,37 @@
+body {
+  display: grid;
+  grid-template-rows: 100px 1fr;
+}
+main {
+  display: flex;
+  justify-content: space-around;
+}
+header {
+  font-family: Roboto;
+  text-align: center;
+  background-color: #39a2db;
+  width: 100%;
+}
+footer {
+  font-family: Roboto;
+  text-align: center;
+  background-color: #122631;
+}
+table,
+th,
+td {
+  text-align: center;
+  width: 400px;
+  background-color: #a2dbfa;
+}
+button {
+  background-color: #71c7ec;
+}
+.a {
+  display: flex;
+  justify-content: center;
+}
+.b {
+  display: flex;
+  justify-content: center;
+}
